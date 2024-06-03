@@ -1,0 +1,48 @@
+owner: LeavesMC
+repo: Status
+
+sites:
+  - name: Website
+    url: https://leavesmc.org/
+    icon: https://leavesmc.org/assets/logo/256x.png
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - LittleChest
+  - name: Documentation
+    url: https://docs.leavesmc.org/
+    icon: https://framerusercontent.com/images/93a6peqhbHQaWP67zttmrKDazq4.png
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - LittleChest
+  - name: Repository
+    url: https://repo.leavesmc.org/
+    icon: https://avatars.githubusercontent.com/u/88636591
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - s-yh-china
+  - name: API
+    url: https://api.leavesmc.org/projects
+    icon: https://github.com/LeavesMC/Status/assets/81231195/2b530251-b6bb-4eb6-884b-af4056c0a60c
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - MC-XiaoHei
+      - Bluemangoo
+      - LittleChest
+  - name: API(Legacy)
+    url: https://api.leavesmc.org/legacy/projects
+    icon: https://github.com/LeavesMC/Status/assets/81231195/e8f70575-fa54-4c06-a6e5-ba7659572906
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - z0z0r4
+      - LittleChest
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+user-agent: LeavesMC
