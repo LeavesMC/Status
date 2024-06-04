@@ -1,0 +1,17 @@
+{
+  "name": "status",
+  "version": "1.36.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeavesMC/Status.git"
+  },
+  "author": "LittleChest",
+  "license": "MIT",
+  "homepage": "https://status.leavesmc.org",
+  "dependencies": {
+    "@netlify/functions": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.1"
+  }
+}

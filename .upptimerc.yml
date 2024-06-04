@@ -41,6 +41,9 @@ sites:
       - z0z0r4
       - LittleChest
 
+workflowSchedule:
+  uptime: "0 0 * * *" # We use Netlify to trigger CI.
+
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
