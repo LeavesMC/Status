@@ -1,7 +1,7 @@
 url: https://api.leavesmc.org/legacy/projects
-status: up
-code: 200
-responseTime: 691
-lastUpdated: 2024-06-06T23:15:34.047Z
+status: down
+code: 500
+responseTime: 28737
+lastUpdated: 2024-06-07T12:41:45.732Z
 startTime: 2024-06-03T17:12:32.020Z
 generator: Upptime <https://github.com/upptime/upptime>
