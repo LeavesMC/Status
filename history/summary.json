@@ -40,9 +40,9 @@
     "url": "https://repo.leavesmc.org/",
     "icon": "https://avatars.githubusercontent.com/u/88636591",
     "slug": "repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 886,
     "timeMonth": 943,
     "timeYear": 943,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   },
   {
     "name": "API",
@@ -59,11 +61,11 @@
     "icon": "https://github.com/LeavesMC/Status/assets/81231195/2b530251-b6bb-4eb6-884b-af4056c0a60c",
     "slug": "api",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "99.75%",
     "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 2037,
     "timeDay": 2920,
     "timeWeek": 1175,
