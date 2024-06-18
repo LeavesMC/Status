@@ -40,19 +40,19 @@
     "url": "https://repo.leavesmc.org/",
     "icon": "https://avatars.githubusercontent.com/u/88636591",
     "slug": "repository",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 786,
-    "timeWeek": 886,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 927,
+    "timeDay": 717,
+    "timeWeek": 856,
+    "timeMonth": 927,
+    "timeYear": 927,
     "dailyMinutesDown": {
-      "2024-06-18": 0
+      "2024-06-18": 4
     }
   },
   {
