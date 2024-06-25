@@ -22,19 +22,19 @@
     "url": "https://docs.leavesmc.org/",
     "icon": "https://framerusercontent.com/images/93a6peqhbHQaWP67zttmrKDazq4.png",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 300,
-    "timeWeek": 205,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 233,
+    "timeDay": 275,
+    "timeWeek": 210,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-06-25": 0
+      "2024-06-25": 5
     }
   },
   {
