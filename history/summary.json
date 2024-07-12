@@ -4,18 +4,20 @@
     "url": "https://leavesmc.org/",
     "icon": "https://leavesmc.org/assets/logo/256x.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 168,
-    "timeWeek": 219,
-    "timeMonth": 378,
-    "timeYear": 345,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 189,
+    "timeWeek": 222,
+    "timeMonth": 374,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2024-07-12": 0
+    }
   },
   {
     "name": "Documentation",
