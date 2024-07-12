@@ -32,14 +32,6 @@ sites:
       - MC-XiaoHei
       - Bluemangoo
       - LittleChest
-  - name: API(Legacy)
-    url: https://api.leavesmc.org/legacy/projects
-    icon: https://github.com/LeavesMC/Status/assets/81231195/e8f70575-fa54-4c06-a6e5-ba7659572906
-    expectedStatusCodes:
-      - 200
-    assignees:
-      - z0z0r4
-      - LittleChest
 
 workflowSchedule:
   uptime: "0 0 * * *" # We use Netlify to trigger CI.
