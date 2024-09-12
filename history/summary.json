@@ -4,18 +4,19 @@
     "url": "https://leavesmc.org/",
     "icon": "https://leavesmc.org/assets/logo/256x.png",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.64%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 704,
-    "timeDay": 5162,
+    "timeDay": 1080,
     "timeWeek": 1871,
     "timeMonth": 924,
     "timeYear": 704,
     "dailyMinutesDown": {
+      "2024-09-12": 0,
       "2024-09-11": 5
     }
   },
