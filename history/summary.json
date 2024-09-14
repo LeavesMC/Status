@@ -65,9 +65,9 @@
     "url": "https://api.leavesmc.org/v2/docs",
     "icon": "https://github.com/LeavesMC/Status/assets/81231195/2b530251-b6bb-4eb6-884b-af4056c0a60c",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +77,7 @@
     "timeMonth": 631,
     "timeYear": 871,
     "dailyMinutesDown": {
+      "2024-09-14": 0,
       "2024-07-12": 11,
       "2024-06-17": 4,
       "2024-06-08": 4
