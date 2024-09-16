@@ -25,9 +25,9 @@
     "url": "https://docs.leavesmc.org/",
     "icon": "https://framerusercontent.com/images/93a6peqhbHQaWP67zttmrKDazq4.png",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 289,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-06-25": 5
     }
   },
