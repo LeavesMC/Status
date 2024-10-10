@@ -50,7 +50,7 @@
     "url": "https://repo.leavesmc.org/",
     "icon": "https://avatars.githubusercontent.com/u/88636591",
     "slug": "repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -62,6 +62,7 @@
     "timeMonth": 1004,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2024-10-10": 0,
       "2024-06-18": 4
     }
   },
