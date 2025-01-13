@@ -1,7 +1,7 @@
 url: https://leavesmc.org/
-status: up
-code: 200
-responseTime: 180
-lastUpdated: 2025-01-12T23:12:31.639Z
+status: down
+code: 503
+responseTime: 479
+lastUpdated: 2025-01-13T13:45:14.967Z
 startTime: 2024-06-03T17:12:27.628Z
 generator: Upptime <https://github.com/upptime/upptime>
