@@ -1,7 +1,7 @@
 url: https://api.leavesmc.org/v2/docs
-status: down
-code: 503
-responseTime: 10278
-lastUpdated: 2025-04-06T00:56:38.253Z
+status: up
+code: 200
+responseTime: 685
+lastUpdated: 2025-04-06T01:00:45.683Z
 startTime: 2024-06-03T17:12:31.262Z
 generator: Upptime <https://github.com/upptime/upptime>
